@@ -38,6 +38,9 @@ Low FOV:
 Plugin Enabled:  
 ![Plugin Enabled](Screenshots/PluginEnabled.png)
 
+Toolbar Addtion:
+![Toolbar Addon](Screenshots/ToolbarAddon.png)
+
 ---
 
 ## Features
