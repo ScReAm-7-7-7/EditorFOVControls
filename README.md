@@ -44,10 +44,10 @@ Toolbar Addon:
 ---
 
 ## Features
-- Quick FOV adjustments without using the slider.  
-- Remappable hotkeys for workflow flexibility **coming soon**.  
+- Quick FOV adjustments without using the slider.   
 - Toolbar integration for easy access.  
 - Lightweight, editor‑only plugin (no runtime dependencies).  
+- **Coming soon**: Remappable hotkeys for workflow flexibility
 
 ---
 
