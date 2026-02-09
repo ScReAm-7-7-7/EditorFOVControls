@@ -23,7 +23,7 @@ Instead of dragging the default slider, you can quickly increase, decrease, or r
 
 ### Toolbar Dropdown
 - A new **FOV Controls** dropdown appears in the main toolbar.  
-- Select preset values (e.g. 80, 90, 100) directly from the menu.  
+- Current value increase or decrease with 5° using either the assigned hotkeys or the dropdown from the toolbar 
 
 ---
 
